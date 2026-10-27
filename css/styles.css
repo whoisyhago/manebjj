@@ -667,7 +667,6 @@ footer p {
   color: var(--gray);
 }
 
-nav a.active { color: var(--gold); }
 
 /* ── BIOGRAFÍA · HERO ── */
 .bio-hero {
